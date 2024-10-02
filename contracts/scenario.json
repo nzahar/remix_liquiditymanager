@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "account{0}": "0x52b8255882A08813C886974f9C73fAb3D1170385"
+  },
+  "linkReferences": {},
+  "transactions": [
+    {
+      "timestamp": 1727867882314,
+      "record": {
+        "value": "0",
+        "inputs": "(uint256,uint256,int24,int24)",
+        "parameters": [
+          "1501501501501501440",
+          "50000000",
+          "-600",
+          "600"
+        ],
+        "name": "adjustLiquidity",
+        "type": "function",
+        "to": "created{undefined}",
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1727867915757,
+      "record": {
+        "value": "0",
+        "inputs": "(uint256,uint256,int24,int24)",
+        "parameters": [
+          "1501501501501501440",
+          "50000000",
+          "-600",
+          "600"
+        ],
+        "name": "adjustLiquidity",
+        "type": "function",
+        "to": "created{undefined}",
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1727868787821,
+      "record": {
+        "value": "0",
+        "inputs": "(uint256,uint256,int24,int24)",
+        "parameters": [
+          "1501501501501501440",
+          "50000000",
+          "-600",
+          "600"
+        ],
+        "name": "adjustLiquidity",
+        "type": "function",
+        "to": "created{undefined}",
+        "from": "account{0}"
+      }
+    }
+  ],
+  "abis": {}
+}
